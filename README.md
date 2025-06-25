@@ -1,6 +1,8 @@
-# Shield-Insurance---developed-in---POWER-BI
+![Screenshot 2025-06-26 012702](https://github.com/user-attachments/assets/570ab31d-3904-4420-9a2a-16c4bfc7f02f)![Screenshot 2025-06-26 012702](https://github.com/user-attachments/assets/570ab31d-3904-4420-9a2a-16c4bfc7f02f)# Shield-Insurance---developed-in---POWER-BI
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYmM0ODdhMDQtZDgwNy00MjI3LWIxMDQtNDAxZDI4YTZjYzM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+[LinkedIn](https://www.linkedin.com/in/poireiton-loukrakpam-23a666141/)
 
 Shield Insurance Power BI Dashboard
 
@@ -27,15 +29,19 @@ Icons from Icons8 & Flaticon
 
 /images → Dashboard screenshots
 Landing page
-![Screenshot 2025-06-25 140956](https://github.com/user-attachments/assets/479dbbe9-d484-4f98-bbdd-1fd1c67a2249)
+![Screenshot 2025-06-26 012702](https://github.com/user-attachments/assets/4f91d651-8c91-430a-a9c7-3fed7e35b242)
+
 Overview/General page
-![Screenshot 2025-06-25 141721](https://github.com/user-attachments/assets/9bcfee14-d0b2-4964-9af3-008eba2cae0c)
+![Screenshot 2025-06-26 012725](https://github.com/user-attachments/assets/43da57f2-4a1f-4eda-8dcd-21f09c9656a9)
+
 Sales Mode
-![Screenshot 2025-06-25 141741](https://github.com/user-attachments/assets/30f000ef-69b7-4f0f-ac98-ab29ecbdc1a6)
+![Screenshot 2025-06-26 012746](https://github.com/user-attachments/assets/a0014b6a-d5e1-41b8-aad4-e54208d3c49d)
+
 Age Group
-![Screenshot 2025-06-25 141759](https://github.com/user-attachments/assets/384f5e52-81d5-4d0d-9f3c-b54e7ba41b59)
+![Screenshot 2025-06-26 012808](https://github.com/user-attachments/assets/e27f61cb-78a3-4ba2-9ce4-9a96f072b682)
+
 Resources
-![Screenshot 2025-06-25 141817](https://github.com/user-attachments/assets/e8fda109-0f10-457e-868b-0be6a3394971)
+![Screenshot 2025-06-26 012824](https://github.com/user-attachments/assets/2638350a-0435-49f4-b01e-d1d0a6750937)
 
 /assets → Logo, icons, background textures
 https://icons8.com/icons/
