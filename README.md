@@ -13,16 +13,23 @@ This repository contains the final Power BI dashboard project built as part of t
 🔍 Project Highlights
 
 Landing Page – Project summary, navigation overview
+
 General View – Key metrics with Last Month (LM) and % Change, city & age segmentation
+
 Sales Mode Analysis – Revenue & customer split by channel + monthly trend
+
 Age Group Analysis – Breakdown by policy preference, sales mode, and expected settlement
+
 Resources Page – Report credits, icon links, contact info
 
 ⚙️ Tools Used
 
 Microsoft Power BI (latest version)
+
 DAX (Data Analysis Expressions)
+
 DAX Studio (For advanced DAX queries and performance tuning)
+
 Icons from Icons8 & Flaticon
 
 📁 Folder Structure
@@ -50,9 +57,13 @@ https://www.flaticon.com/
 ✅ Features Implemented
 
 Dynamic card visuals with color-coded % change and LM benchmarks
+
 Slicers for filtering by City, Age Group, Sales Mode, Policy ID, and Month-Year
+
 Toggle button for switching between customer and revenue trend
+
 Age segmentation + policy impact analysis
+
 Custom tooltips, clean typography, and visual hierarchy
 
 👤 Author
@@ -66,9 +77,13 @@ This dashboard is developed under the guidance and structure of the Codebasics i
 📌 How to Use
 
 Open the .pbix file in Power BI Desktop (latest version recommended)
+
 Explore each tab:
+
 Use slicers to analyze specific segments
+
 Review KPI performance using LM and % change
+
 Hover over charts for dynamic tooltips
 
 📦 License
