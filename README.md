@@ -51,7 +51,7 @@ Custom tooltips, clean typography, and visual hierarchy
 
 👤 Author
 
-Poireiton Loukrakpam📧 poireitonl@yahoo.com🔗 LinkedIn
+Poireiton Loukrakpam📧 poireitonl@yahoo.com🔗 [LinkedIn](https://www.linkedin.com/in/poireiton-loukrakpam-23a666141/)
 
 💡 Inspiration
 
