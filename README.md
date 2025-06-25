@@ -1,4 +1,4 @@
-![Screenshot 2025-06-26 012702](https://github.com/user-attachments/assets/570ab31d-3904-4420-9a2a-16c4bfc7f02f)![Screenshot 2025-06-26 012702](https://github.com/user-attachments/assets/570ab31d-3904-4420-9a2a-16c4bfc7f02f)# Shield-Insurance---developed-in---POWER-BI
+# Shield-Insurance---developed-in---POWER-BI
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYmM0ODdhMDQtZDgwNy00MjI3LWIxMDQtNDAxZDI4YTZjYzM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
