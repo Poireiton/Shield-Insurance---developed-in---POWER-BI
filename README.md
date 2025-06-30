@@ -39,13 +39,16 @@ Landing page
 ![Screenshot 2025-06-26 012702](https://github.com/user-attachments/assets/4f91d651-8c91-430a-a9c7-3fed7e35b242)
 
 Overview/General page
-![Screenshot 2025-06-26 012725](https://github.com/user-attachments/assets/43da57f2-4a1f-4eda-8dcd-21f09c9656a9)
+![Screenshot 2025-06-30 210328](https://github.com/user-attachments/assets/4b576549-aeac-46b5-93ec-f554d3f1a474)
+
 
 Sales Mode
-![Screenshot 2025-06-26 012746](https://github.com/user-attachments/assets/a0014b6a-d5e1-41b8-aad4-e54208d3c49d)
+![Screenshot 2025-06-30 210356](https://github.com/user-attachments/assets/7b39fa19-7aee-4d88-8cd2-7583d8129441)
+
 
 Age Group
-![Screenshot 2025-06-26 012808](https://github.com/user-attachments/assets/e27f61cb-78a3-4ba2-9ce4-9a96f072b682)
+![Screenshot 2025-06-30 210418](https://github.com/user-attachments/assets/9081a572-076a-4cd1-8a65-1e140ea082a7)
+
 
 Resources
 ![Screenshot 2025-06-26 012824](https://github.com/user-attachments/assets/2638350a-0435-49f4-b01e-d1d0a6750937)
